@@ -19,7 +19,7 @@ Specifications
  - Port: 1825
  - RPCPort: 1824
 
-Check http://www.makicoin.com for up to date info on MakiCoin.
+Check https://makicoin.com for up to date info on MakiCoin.
 
 
 License
