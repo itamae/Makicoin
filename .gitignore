@@ -1,0 +1,34 @@
+src/*.exe
+src/makicoin
+src/makicoind
+src/test_makicoin
+.*.swp
+*.*~*
+*.bak
+*.rej
+*.orig
+*.o
+*.patch
+.makicoin
+
+# Compilation and Qt preprocessor part
+*.qm
+Makefile
+makicoin-qt
+Makicoin-Qt.app
+
+# Unit-tests
+Makefile.test
+makicoin-qt_test
+
+# Resources cpp
+qrc_*.cpp
+
+# Qt creator
+*.pro.user
+
+# Mac specific
+.DS_Store
+build
+
+!src/leveldb*/Makefile

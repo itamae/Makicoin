@@ -1,0 +1,9 @@
+Building Makicoin
+
+See doc/readme-qt.rst for instructions on building Makicoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Makicoin.
+
+See doc/build-*.txt for instructions on building makicoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Makicoin.
