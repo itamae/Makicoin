@@ -1,7 +1,7 @@
 MakiCoin 
 ================================
 
-Website: 	http://www.makicoin.com
+Website: 	https://makicoin.com
 E-mail:		support@makicoin.com
 
 
